@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-flag",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 172aa288605f03ac236b23f0091ffa2279fa3800
   "title": "Semantic UI - Flag",
   "description": "Single component release of flag",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> 172aa288605f03ac236b23f0091ffa2279fa3800
   "devDependencies": {}
 }
