@@ -1,13 +1,19 @@
  /*
- * # Semantic UI
+ * # Semantic UI - 1.9.0
  * https://github.com/Semantic-Org/Semantic-UI
- * http://beta.semantic-ui.com/
+ * http://www.semantic-ui.com/
  *
  * Copyright 2014 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
  */
+
+
+
+/*******************************
+             Flag
+*******************************/
 
 i.flag:not(.icon) {
   display: inline-block;
@@ -22,6 +28,8 @@ i.flag:not(.icon) {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
 }
+
+/* Sprite */
 i.flag:not(.icon):before {
   display: inline-block;
   content: '';
@@ -339,7 +347,6 @@ i.flag.gabon:before {
   background-position: -36px 0px;
 }
 i.flag.gb:before,
-i.flag.england:before,
 i.flag.united.kingdom:before {
   background-position: -36px -26px;
 }
@@ -1010,3 +1017,9 @@ i.flag.zw:before,
 i.flag.zimbabwe:before {
   background-position: -108px -390px;
 }
+
+
+/*******************************
+         Site Overrides
+*******************************/
+
