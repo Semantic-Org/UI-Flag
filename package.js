@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-flag',
   summary : 'Semantic UI - Flag (official): Single component release of flag',
-  version : '1.9.9',
+  version : '1.9.0',
   git     : 'git://github.com/Semantic-Org/UI-Flag.git',
 });
 
