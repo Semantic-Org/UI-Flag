@@ -1,0 +1,21 @@
+{
+  "name": "semantic-ui-flag",
+<<<<<<< HEAD
+  "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> 0e265d2e232ff4f49e3686d20cc0c306813e01de
+  "title": "Semantic UI - Flag",
+  "description": "Single component release of flag",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semantic-Org/UI-Flag.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "semantic/flag",
+  "description": "Single component release of flag",
+  "homepage": "http://www.semantic-ui.com",
+  "authors": [{
+    "name": "Jack Lukic",
+    "email": "jacklukic@gmail.com",
+    "web": "http://www.jacklukic.com",
+    "role": "Creator"
+  }],
+  "keywords": [
+    "semantic",
+    "ui",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+<<<<<<< HEAD
+  "version": "1.0.0-beta"
+=======
+  "version": "1.7.2"
+>>>>>>> 0e265d2e232ff4f49e3686d20cc0c306813e01de
+}
