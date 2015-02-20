@@ -1,17 +1,15 @@
-var
-  where = 'client' // Adds files only to the client
-;
 
 Package.describe({
   name    : 'semantic:ui-flag',
-  summary : 'Semantic UI - Flag (official): Single component release of flag',
-  version : '1.9.2',
+  summary : 'Semantic UI - Flag: Single component release',
+  version : '1.9.3',
   git     : 'git://github.com/Semantic-Org/UI-Flag.git',
 });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.addFiles([
-    
-  ], where);
+    'flag.css',
+    'assets/images/flags.png'
+  ], 'client');
 });
