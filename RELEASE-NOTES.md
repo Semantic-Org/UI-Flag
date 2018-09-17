@@ -1,3 +1,7 @@
+### Version 2.4.0 - Sep 17, 2018
+
+- **Flag** - Add `uk` alias for `united kingdom` **Thanks @PhilipGarnero** [#6531](https://github.com/Semantic-Org/Semantic-UI/issues/6531)
+
 ### Version 2.2.14 - Jan 29, 2018
 
 - **Flag** - Adds missing flag for England **Thanks @zyzniewski** [#5944](https://github.com/Semantic-Org/Semantic-UI/issues/5944)
